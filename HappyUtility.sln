@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyUtility", "HappyUtility\HappyUtility.csproj", "{CF9322DF-397B-4D90-97A1-3AB53FC3A889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyUtilityCode", "HappyUtilityCode\HappyUtilityCode.csproj", "{DA776AB2-0A83-4821-A98D-FEA687976EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9322DF-397B-4D90-97A1-3AB53FC3A889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9322DF-397B-4D90-97A1-3AB53FC3A889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9322DF-397B-4D90-97A1-3AB53FC3A889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9322DF-397B-4D90-97A1-3AB53FC3A889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA776AB2-0A83-4821-A98D-FEA687976EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA776AB2-0A83-4821-A98D-FEA687976EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA776AB2-0A83-4821-A98D-FEA687976EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA776AB2-0A83-4821-A98D-FEA687976EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {286FA518-0846-41AD-B972-A7A1339A2572}
+	EndGlobalSection
+EndGlobal
